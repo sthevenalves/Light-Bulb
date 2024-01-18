@@ -6,25 +6,23 @@
 
  <h2>Table Contents</h2>
  <ul>
-   <li>Descrição 
-   <li>Projeto
-   <li>Configuração
+   <li><a href="#desc">Descrição</a> 
+   <li><a href="#proj">Projeto</a> 
+   <li><a href="#config">Configuração</a> 
  </ul> 
 
-<h2>Descrição</h2>
+<h2 id="desc">Descrição</h2>
 <p>Este projeto representa o estado de uma lâmpada, onde eu posso 'ligar', 'desligar' ou com um double click na lampada, quebra-la, mas também posso restaura-la com o botão 'concertar'.</p>
 
+<h2 id="proj">Projeto</h2>
 
-<h2>Projeto</h2>
-<figure style="display: inline-block;">
-    <img src="assets/img/img-off.png" width="350px" />
-    <img src="assets/img/img-on.png" width="350px" />
-</figure>
-<div align="center">
-<img src="assets/img/img-desabled.png" width="350px" />
-</div>
+| <img src="assets/img/img-off.png" width="300px"> | <img src="assets/img/img-on.png" width="300px"> |
+| ------------------------------------------------- | ---------------------------------------------- |
+| <img src="assets/img/img-desabled.png" width="300px"> |                                              |
 
-<h2>Configuração</h2>
+
+
+<h2 id="config">Configuração</h2>
 <ul>
 <li> git clone https://github.com/sthevenalves/light-bulb.git
 
