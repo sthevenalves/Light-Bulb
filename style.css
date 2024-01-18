@@ -12,11 +12,12 @@ header, main{
     width: 100px;
     height: 30px;
     margin-right: 5px;
-    font: bold 1rem Verdana;
+    font: bold 0.95rem Verdana;
     border: none;
     border-radius: solid 0px black;
     cursor: pointer;
     box-sizing: border-box;
+    border-radius: 2px;
 }
 #turnOnOff{
     background-color: rgb(81, 188, 81);
