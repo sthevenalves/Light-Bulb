@@ -9,7 +9,7 @@ header, main{
 }
 
 .comand button {
-    width: 90px;
+    width: 100px;
     height: 30px;
     margin-right: 5px;
     font: bold 1rem Verdana;
@@ -18,11 +18,11 @@ header, main{
     cursor: pointer;
     box-sizing: border-box;
 }
-#turnOn{
+#turnOnOff{
     background-color: rgb(81, 188, 81);
 }
-#turnOff{
-    background-color: rgb(202, 66, 66);
+#rest{
+    background-color: rgb(197, 164, 123);
 }
 
 button:hover{
